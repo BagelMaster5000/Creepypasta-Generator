@@ -30,6 +30,7 @@ def GenerateStory(StoryLines):
 
 def OutputStoryToFile(fileName, story):
     print()
+    print()
     print("Story also output to " + fileName)
     print()
 
