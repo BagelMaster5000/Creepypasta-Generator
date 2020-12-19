@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Creepypasta Generator", "Creepypasta Generator.pyproj", "{37A0C5BB-C564-4714-9B77-75322AA1F49D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37A0C5BB-C564-4714-9B77-75322AA1F49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A0C5BB-C564-4714-9B77-75322AA1F49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E30E4B-F8EC-4A18-97CD-6CA2EEE194DA}
+	EndGlobalSection
+EndGlobal
